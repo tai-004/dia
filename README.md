@@ -1,2 +1,2 @@
-# dia
+# publica
 diario projeto
